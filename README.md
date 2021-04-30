@@ -12,4 +12,4 @@ _this is italicised text_
 
 [Markdown tutorial](https://opensource.com/article/19/9/introduction-markdown)
 
-> >this is quoted text
+> this is quoted text
