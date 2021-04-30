@@ -10,6 +10,6 @@ this is kasasira's app
 
 _this is italicised text_
 
-[this is a link](https://opensource.com/article/19/9/introduction-markdown)
+[Markdown tutorial](https://opensource.com/article/19/9/introduction-markdown)
 
 > >this is quoted text
